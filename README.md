@@ -2,10 +2,14 @@
 _______________________
 
 # Instalando Phonegap
--Instalamos NodeJs   
--sudo npm install -g phonegap
--phonegap create myapp
--cd myapp
--phonegap run android
+Instalamos NodeJs 
+
+sudo npm install -g phonegap
+
+phonegap create myapp
+
+cd myapp
+
+phonegap run android
 
    
